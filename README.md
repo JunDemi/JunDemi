@@ -1,6 +1,5 @@
  <div align="center">
-  
-### `프론트엔드 개발자 박정욱입니다`
+  #### `프론트엔드 개발자 박정욱입니다`
  </div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundemi&layout=compact&theme=tokyonight)
 
