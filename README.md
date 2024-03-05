@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff"/>
 
  #### 경험해 본 기술 스택
- <img src="https://img.shields.io/badge/Planet Scale-000000?style=for-the-badge&logo=planetscale&logoColor=ffffff"/> <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Planet Scale-000000?style=for-the-badge&logo=planetscale&logoColor=ffffff"/> <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=ffffff"/>
  
 
 
