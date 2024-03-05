@@ -19,5 +19,7 @@
  
  #### 학습 중 혹은 학습 예정인 기술 스택
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff"/> 
+
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundemi&theme=react&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundemi&layout=compact&theme=tokyonight)
