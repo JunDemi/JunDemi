@@ -1,7 +1,7 @@
 ##### 프론트엔드 개발자 박정욱입니다!
  <div align="center">
  
-  ## 📘 My Stacks
+  ## 📘 My Skills
  </div>
  
  #### 기본 마크업
