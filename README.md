@@ -1,7 +1,7 @@
-#### `프론트엔드 개발자 박정욱입니다`
+##### 프론트엔드 개발자 박정욱입니다
  <div align="center">
  
-  ## Stacks
+  ## My Stacks
  </div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundemi&theme=react&show_icons=true)
