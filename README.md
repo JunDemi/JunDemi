@@ -14,7 +14,7 @@
  ##### 📖 주로 사용한 스타일링
  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff"/>
  
- ##### 📖 데이터베이스&파일스토리지에 사용한 기술 스택
+ ##### :closed_lock_with_key: 데이터베이스&파일스토리지에 사용한 기술 스택
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000"/> <img src="https://img.shields.io/badge/Planet Scale-000000?style=for-the-badge&logo=planetscale&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=ffffff"/>
 
  ##### 📖 경험해 본 기술 스택
