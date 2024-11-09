@@ -14,6 +14,9 @@
  ##### :mag: 학습 중 혹은 관심이 있는 기술
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff"/> 
 
+##### Carrers
+- Nationalux: 2022.05 ~ 2024.04
+- AMLabs: 2024.11 ~ 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundemi&theme=react&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundemi&layout=compact&theme=tokyonight)
